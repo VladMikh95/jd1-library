@@ -1,0 +1,3 @@
+id=1 login=vasay password=1234 role=admin
+id=2 login qqq pasword www role=reader
+id=3 login=aaa, password=bbb, name=ccc, role=ddd
